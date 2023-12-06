@@ -113,7 +113,8 @@ fn cylinder(){
     let arr = [trapezium,rhombus,parallelogram,cube,cylinder];
 
     if choice >= 1.0 && choice <= 5.0 {
-        arr[(choice - 1.0) as usize]();
+        arr[(choice - 1.0
+            ) as usize]();
         break;
     }
 
