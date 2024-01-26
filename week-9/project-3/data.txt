@@ -1,0 +1,20 @@
+S/N. NAME OF COMMISSIONER 
+ 1. Aigbogun Alamba Daudu 
+ 2. Murtala Afeez Bendu 
+ 3. Okorocha Calistus Ogbona 
+ 4. Adewale Jimoh Akanbi 
+ 5. Osazuwa Faith  Etieye
+
+S/N. MINISTRY 
+ 1. Internal affairs 
+ 2. Justice 
+ 3. Defense 
+ 4. Power and Steel 
+ 5. Petroleum
+
+S/N. Geo-political Zone 
+ 1. South West 
+ 2. North East 
+ 3. South South 
+ 4. South West 
+ 5. South East

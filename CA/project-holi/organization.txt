@@ -1,0 +1,48 @@
+Name: Cadbury Nigeria Plc
+Date Founded: 1965
+Assets: N15000000
+Liabilities: N5500000
+Leverage Percentage: 0.0063%
+
+Name: Champions Breweries Plc
+Date Founded: 1974
+Assets: N25000000
+Liabilities: N8000000
+Leverage Percentage: 0.0068%
+
+Name: Dangote Sugar Refinery Plc
+Date Founded: 1970
+Assets: N18000000
+Liabilities: N10000000
+Leverage Percentage: 0.00444%
+
+Name: Flour Mills Nigeria Plc
+Date Founded: 1960
+Assets: N32000000
+Liabilities: N4000000
+Leverage Percentage: 0.00875%
+
+Name: Nestle Nigeria Plc
+Date Founded: 1961
+Assets: N8000000
+Liabilities: N1500000
+Leverage Percentage: 0.00813%
+
+Name: Unilever Nigeria Plc
+Date Founded: 1923
+Assets: N37000000
+Liabilities: N11000000
+Leverage Percentage: 0.00703%
+
+Name: Honeywell Nigeria Plc
+Date Founded: 1906
+Assets: N34000000
+Liabilities: N9000000
+Leverage Percentage: 0.00735%
+
+Name: Nigerian Breweries Plc
+Date Founded: 1946
+Assets: N30000000
+Liabilities: N12000000
+Leverage Percentage: 0.006%
+

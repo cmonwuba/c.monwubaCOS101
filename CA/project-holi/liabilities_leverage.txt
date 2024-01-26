@@ -1,0 +1,15 @@
+Company Name: Cadbury Nigeria Plc
+Calculated Liabilities Leverage: 5500000
+
+Company Name: Champions Breweries Plc
+Calculated Liabilities Leverage: 8000000
+
+Company Name: Flour Mills Nigeria Plc
+Calculated Liabilities Leverage: 4000000
+
+Company Name: Nestle Nigeria Plc
+Calculated Liabilities Leverage: 1500000
+
+Company Name: Honeywell Nigeria Plc
+Calculated Liabilities Leverage: 9000000
+

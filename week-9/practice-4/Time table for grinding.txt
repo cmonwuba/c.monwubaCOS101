@@ -1,0 +1,18 @@
+| Time          | Activity                        | Notes                             |
+|---------------|---------------------------------|-----------------------------------|
+| 8:00 - 8:30   | Morning Routine                 | Wake up, freshen up, and get ready|
+| 8:30 - 9:00   | Breakfast                       | Healthy meal to start the day     |
+| 9:00 - 10:30  | Statistics                      | Focus on problem-solving          |
+| 10:30 - 12:00 | Rust Programming                | Practical coding exercises        |
+| 12:00 - 13:00 | Lunch Break                     | Rest and recharge                 |
+| 13:00 - 14:30 | Physics                         | Conceptual understanding          |
+| 14:30 - 15:00 | Short Break                     | Relaxation time                   |
+| 15:00 - 16:30 | Linear Algebra                  | Work on equations and theories    |
+| 16:30 - 17:00 | Snack Break                     | Light refreshments                |
+| 17:00 - 18:30 | Introduction to Computer Science| Study fundamental concepts        |
+| 18:30 - 19:30 | Dinner Break                    | Time to eat and unwind            |
+| 19:30 - 21:00 | Christian Theology              | Reflective reading and notes      |
+| 21:00 - 22:00 | Code Projects                   | Apply what you've learned         |
+| 22:00 - 23:00 | Communications in English       | Practice writing and speaking     |
+| 23:00 - 23:30 | Review & Plan for Next Day      | Recap and prepare for tomorrow    |
+| 23:30         | Bedtime                         | Ensure adequate rest              |
